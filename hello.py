@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("Hello world")
+st.write("Hello world - Testing GIT")
 X = st.text_input("What's your name?")
 st.write ("Hello", X)
 st.write("Choose the car you want to buy")
